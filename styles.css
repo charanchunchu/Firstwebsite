@@ -95,6 +95,11 @@ hr {
     /* font-weight: bold; */
 }
 
+.navigation  :active {
+    background-color: yellow;
+    padding: 4px;
+  }
+
 /** header **/
 
 .hero {
