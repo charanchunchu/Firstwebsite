@@ -79,11 +79,13 @@ hr {
     border-bottom-left-radius: 1rem;
 }
 
-.navigation .nav-brand {
+.nav-brand {
     font-weight: bold;
+    font-size: 1.3rem;
+    letter-spacing: 0.1rem;
 }
 
-.navigation .nav-pills {
+.nav-pills {
     text-align: right;
 }
 
@@ -91,14 +93,9 @@ hr {
     color: white;
 }
 
-.navigation .link-active {
-    /* font-weight: bold; */
+.link-active {
+    font-weight: bold;
 }
-
-.navigation  :active {
-    background-color: yellow;
-    padding: 4px;
-  }
 
 /** header **/
 
